@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="GroceryAssistant.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="GroceryAssistant.MvcApplication" Language="C#" %>
